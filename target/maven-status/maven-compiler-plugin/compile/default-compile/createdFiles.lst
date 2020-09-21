@@ -1,8 +1,0 @@
-framework\util\PropertyManager.class
-pageobjects\framework\util\api\ListViewPage.class
-pageobjects\framework\util\api\SalesforceLoginPage.class
-pageobjects\framework\util\pages\CaseRecordHomePageImpl.class
-pageobjects\framework\util\api\CaseRecordHomePage.class
-framework\util\PageFactory.class
-pageobjects\framework\util\pages\SalesforceLoginPageImpl.class
-pageobjects\framework\util\pages\ListViewPageImpl.class
